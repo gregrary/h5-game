@@ -1,5 +1,5 @@
-## h5-game 
-- [Play on laptop](https://yiidtw.github.io/h5-game/)
+## snake
+- [Play on laptop](https://gregrary.github.io/snake/)
 
 ## Screenshot
 ![](https://i.imgur.com/D5lmgYa.png)
@@ -14,7 +14,7 @@ $ brew install yarn
 # fork to your repo on github
 $ cd ~
 $ git clone git@github.com:<you_git_username>/h5-game.git
-$ cd h5-game
+$ cd snake
 $ yarn add
 ```
 
